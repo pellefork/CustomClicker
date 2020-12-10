@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <id name="tag_trackingName"/>
+    <id name="tag_trackingAction"/>
+    <id name="tag_trackingLabel"/>
+    <id name="tag_trackingCategory"/>
+    <id name="tag_trackingProduct"/>
+    <id name="tag_trackingIconName"/>
+    <id name="tag_trackingColor"/>
+    <id name="tag_trackingPosition"/>
+    <id name="tag_trackingType"/>
+    <id name="tag_trackingHeader"/>
+    <id name="tag_trackingLinkType"/>
+    <id name="tag_trackingPageHeadline"/>
+    <id name="tag_trackingNext"/>
+</resources>
