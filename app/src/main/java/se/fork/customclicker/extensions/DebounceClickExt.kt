@@ -14,6 +14,7 @@ fun View.onClickWithDebounce(debounceTime: Long = 500L, action: (View) -> Unit) 
             else {
                 action(v)
                 Timber.d("onClick: trackingName = ${v.trackingName}")
+                Timber.d("onClick: trackingProduct = ${v.trackingProduct}")
             }
 
             lastClickTime = SystemClock.elapsedRealtime()

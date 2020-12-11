@@ -2,5 +2,6 @@
 <resources>
     <declare-styleable name="View">
         <attr name="trackingName" format="string"/>
+        <attr name="trackingProduct" format="string"/>
     </declare-styleable>
 </resources>
